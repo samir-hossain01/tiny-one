@@ -1,0 +1,199 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+        font-size: 20px;
+    }
+    header {
+    padding: 10px 0;
+}
+    /*    slider start*/
+    .slider {
+    padding-bottom: 60px;
+}
+    
+    .slider-content {
+    margin-top: 10px;
+}
+    .slider-content h1 {
+    font-size: 25px;
+}
+    .slider-content h2 {
+    font-size: 18px;
+    margin: 10px 0px;
+}
+    .slider-content p {
+    margin-bottom: 10px;
+}
+    .slider-icon {
+    font-size: 35px;
+}
+    .slider-icon li {
+    margin-right: 10px!important;
+}
+    .c-id {
+    bottom: -50px;
+}
+    .c-id {
+    bottom: -60px;
+}
+    .c-id li {
+    width: 13px;
+    height: 13px;
+}
+/*    slider end*/
+/*    feature start*/
+    .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+    .t-h1 {
+    font-size: 25px;
+}
+    .t-p {
+    font-size: 18px;
+        letter-spacing: 0;
+        word-spacing: 0;
+}
+/*    feature end*/
+    /*    feature start */
+    .m_t_60 {
+    margin-top: 10px;
+}
+    .f-content {
+        margin-top: 0;
+    text-align: center;
+}
+    .f-icon {
+    font-size: 40px;
+}
+/*    feature end*/
+/*    contact start*/
+    .contact{
+   padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+    .contact-form {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+    .contact-form .c-input {
+    height: 40px;
+        margin-bottom: 10px;
+}
+    .btn-contact {
+    height: 40px;
+
+}
+/*    contact end*/
+    .social ul li a {
+    font-size: 25px;
+    padding: 0 10px;
+    margin-right: 0px; 
+}
+/*    footer start*/
+    .footer {
+    padding-bottom: 50px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+    }
+/*    slider start*/
+    .slider {
+    padding-bottom: 80px;
+}
+    .slider-content {
+    margin-top: 10px;
+}
+    .c-id {
+    bottom: -60px;
+}
+    .c-id li {
+    width: 13px;
+    height: 13px;
+}
+/*    slider end*/
+    /*    feature start*/
+    .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+    .t-h1 {
+    font-size: 25px;
+}
+    .t-p {
+    font-size: 18px;
+        letter-spacing: 0;
+        word-spacing: 0;
+}
+/*    feature end*/
+/*    feature start */
+    .m_t_60 {
+    margin-top: 20px;
+}
+    .f-content {
+    text-align: center;
+}
+    .contact {
+    padding-bottom: 50px;
+}
+/*    feature end*/
+/*    footer start*/
+    .footer {
+    padding-bottom: 50px;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+    }
+/*    slider content*/
+    .slider-content h1 {
+    font-size: 30px;
+}
+    .slider-content {
+    margin-top: 10px;
+}
+/*    slider content end*/
+    
+/*    feature start*/
+    .m_t_60 {
+    margin-top: 40px;
+}
+/*    feature end*/
+    /*    contact start*/
+    .contact{
+   padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+    
+/*    contact end*/
+/*    footer start*/
+    .footer{
+    padding-bottom: 80px;
+    
+}
+ 
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    ...
+}
